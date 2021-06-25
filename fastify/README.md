@@ -1,5 +1,11 @@
-# Fastify
+# Explorando Fastify
 
-Explorando Fastify
+Porque construir API's é preciso!
 
-[Documentação](https://www.fastify.io/docs/latest/)
+## Comandos 
+
+`make dev`: Inicia o ambiente dev
+
+`make stop`: Para o ambiente dev
+
+`make reboot`: Para e reconstrões o ambiente dev
